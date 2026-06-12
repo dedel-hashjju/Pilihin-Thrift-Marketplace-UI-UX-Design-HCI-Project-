@@ -11,3 +11,6 @@ https://www.figma.com/design/80Z4fGl9JBHCqSlniLGNSx/Pilih.In?node-id=0-1&t=aKV92
 
 🚀 Prototype:
 https://www.figma.com/proto/80Z4fGl9JBHCqSlniLGNSx/Pilih.In?node-id=0-1&t=aKV92Xu5InXTJeK8-1
+
+ with builder.io 
+ npx "@builder.io/dev-tools@latest" code  --url vcp://quickcopy/vcp-64f282c268834d2581e8fdc72fbee08c
